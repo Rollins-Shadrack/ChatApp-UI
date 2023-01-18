@@ -1,0 +1,10 @@
+.allUsers{
+    max-height: 80vh;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+@media (max-width: 768px){
+    .allUsers{
+        height:50vh
+    }
+}
